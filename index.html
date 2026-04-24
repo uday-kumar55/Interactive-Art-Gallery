@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aesthetica | Art Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="bg-gradient"></div>
+
+    <nav class="top-nav">
+        <div class="logo">AESTHETICA</div>
+        <div class="filters">
+            <span class="filter-link active" data-category="all">All</span>
+            <span class="filter-link" data-category="Paintings">Paintings</span>
+            <span class="filter-link" data-category="Statues">Statues</span>
+            <span class="filter-link" data-category="Digital">Digital</span>
+        </div>
+    </nav>
+
+    <main id="gallery" class="masonry-grid"></main>
+
+    <div id="side-panel" class="side-panel">
+        <button class="close-panel">CLOSE &times;</button>
+        <div class="panel-content">
+            <div class="preview-box">
+                <img id="p-img-preview" src="" alt="">
+            </div>
+            <h2 id="p-title"></h2>
+            <p id="p-category" class="category-tag"></p>
+            <div class="gold-line"></div>
+            <p class="description">
+                Experience the depth of this exclusive masterwork. This piece is 
+                available for private viewing and high-fidelity digital ownership.
+            </p>
+            <button class="buy-btn">INQUIRE FOR PRICING</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
