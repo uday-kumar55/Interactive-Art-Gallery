@@ -5,10 +5,15 @@ An interactive art gallery website built with HTML, CSS, and JavaScript.
 ## ✨ Features
 
 - 🎨 Responsive art gallery
-- 🔎 Artwork filtering
+- 🎨 Artwork filtering
 - 🖼️ Dynamic gallery layout
 - 📱 Mobile-friendly design
 - ⚡ JavaScript-powered interactions
+- Responsive gallery layout
+- Category filtering
+- Interactive artwork display
+- Responsive design
+- Clean and simple UI
 
 ## 🛠️ Technologies
 
@@ -19,3 +24,7 @@ An interactive art gallery website built with HTML, CSS, and JavaScript.
 ## 🚀 About
 
 This project demonstrates an interactive and responsive art gallery built using front-end web technologies.
+
+## 🚀 Live Demo
+
+Add your GitHub Pages link here.
