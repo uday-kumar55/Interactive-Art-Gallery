@@ -27,4 +27,3 @@ This project demonstrates an interactive and responsive art gallery built using 
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here.
